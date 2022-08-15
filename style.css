@@ -1,0 +1,28 @@
+body{
+    margin: 5px 187px;
+}
+.container {
+  background-image: linear-gradient(to right, rgb(214, 240, 167), rgb(243, 242, 198),rgba(255,0,0,0)) ;
+  color: rgb(5, 5, 4);
+  border-radius: 10px ;
+}
+.fieldss{
+    margin: 10px
+}
+.inputs{
+    border-radius: 8px;
+}
+
+#display{
+    margin: 5px;
+    border-radius: 8px;
+  
+}
+#parent{
+    margin: auto;
+    width: 80%;
+}
+.well{
+    margin: 10px 0px 0px 0px;
+    background-image: linear-gradient(to right, rgb(204 231 156 / 83%), rgb(243, 242, 198),rgb(255 0 0 / 2%));
+}
